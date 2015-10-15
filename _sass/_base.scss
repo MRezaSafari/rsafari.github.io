@@ -1,3 +1,4 @@
+
 /**
  * Reset some basic elements
  */
@@ -21,6 +22,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    direction: rtl !important;
 }
 
 

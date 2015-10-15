@@ -1,1 +1,1 @@
-my blog repository
+this is my blog

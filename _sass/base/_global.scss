@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'iran_sansregular';
+  src: url('../font/iran_sans.eot?#') format('eot'),  /* IE6–8 */
+       url('../font/iran_sans.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../font/iran_sans.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +30,18 @@ body {
   font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
+    direction: rtl;
+
+}
+.highlight{
+    direction: ltr;
+    background-color: #F8F5FF;
+    padding: 1px 12px !important;
+    margin: 10px 0; 
+}
+code{
+ font-family: 'Anonymous Pro' !important;   
+    font-size: 15px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;

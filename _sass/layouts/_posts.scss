@@ -52,16 +52,19 @@ header {
   width:100%;
   border-bottom: 1px solid $border-color;
   display: flex;
-  float: left;
+  float: right;
+  direction:ltr;
 
   a, .page-title {
     display: inline-block;
+
   }
 
   .page-title {
     font-size: 1.2em;
     margin-bottom: 1em;
     width: 100%;
+	direction:rtl;
   }
 
   a {

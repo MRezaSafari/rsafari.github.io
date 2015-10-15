@@ -5,18 +5,19 @@ url: "http://127.0.0.1:4464" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Mohammad Reza Safari
+  title: M.R.Safari Blog
   avatar: avatar.png
   gravatar: 0a1ed0dcb99ed9d09e9e424eadbef1e3
-  description: "A website with blog posts and pages" # used by search engines
+  description: "محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب"
 
   # Header and footer text
   header_text: >
-     <p>im mohammad reza safari</p>
+     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p>
    
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> using <a href="https://pages.github.com">github pages</a>
+   با قدرت <a href="http://jekyllrb.com">Jekyll</a> و میزبانی <a href="https://github.com">github</a>
+   <p>کپی مطالب بدون ذکر منبع هم بلامانع است</p>
 
   # Icons
   rss: false
@@ -36,22 +37,22 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: 
   wordpress:
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_follow_on: "دنبال کنید"
+  str_rss_follow: "فید"
+  str_email: "ایمیل"
+  str_next: "بعدی"
+  str_prev: "قبلی"
+  str_continue_reading: "ادامه مطلب ..."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
