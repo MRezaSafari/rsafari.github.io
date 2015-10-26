@@ -13,7 +13,7 @@ theme:
   # Header and footer text
   header_text: >
      <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p>
-	    
+     
   header_text_feature_image:
   footer_text: >
    با قدرت <a href="http://jekyllrb.com">Jekyll</a> و میزبانی <a href="https://github.com">github</a>
