@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "سلام Jekyll"
-date:   2015-11-10 18:25:23
+date:   2015-10-10 18:25:23
 categories:  miscellaneous
 ---
 سلامی دوباره با jekyll و اینبار با میزبانی github

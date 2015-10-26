@@ -12,7 +12,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p>
+     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p><p><small>مدیر بخش تحقیق و توسعه شرکت داده پردازی فراتک</small></p>
+	 
    
   header_text_feature_image:
   footer_text: >
