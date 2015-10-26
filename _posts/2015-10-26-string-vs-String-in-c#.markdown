@@ -12,8 +12,6 @@ categories:  programming dotnet c#
 
 تنها تغییر کوچیکی که ممکنه متوجهش بشید این هست که اگر از کلاس String استفاده کنید مجبور هست که فضای نام String رو هم بالای کلاس خودتون داشته باشید که در حالتی که از string استفاده کنید مجبور به اینکار نخواهید بود.
 
-Many developers prefer to declare a string variable with string but use the String class when accessing one of its static members:
-
 خیلی از برنامه نویس ها ترجیح میدن که متغیرها رو با string نام گذاری کنن اما زمانی که میخوان به یکی از متد های کلاس دسترسی پیدا کنن از String استفاده کنن . مثلا : 
 
-String.Format()
+String.Format
