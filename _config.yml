@@ -5,7 +5,7 @@ url: "http://127.0.0.1:4464" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: M.R.Safari Blog
+  title: وبلاگ محمد رضا صفری - برنامه نویس و تحلیل گر وب
   avatar: avatar.png
   gravatar: 0a1ed0dcb99ed9d09e9e424eadbef1e3
   description: "محمد رضا صفری, وبلاگ شخصی محمد رضا صفری, آموزش c#, محمد صفری, مشهد کانکت, دات نت, mvc"
