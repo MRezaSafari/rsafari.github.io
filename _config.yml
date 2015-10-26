@@ -8,11 +8,11 @@ theme:
   title: M.R.Safari Blog
   avatar: avatar.png
   gravatar: 0a1ed0dcb99ed9d09e9e424eadbef1e3
-  description: "محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب"
+  description: "محمد رضا صفری, وبلاگ شخصی محمد رضا صفری, آموزش c#, محمد صفری, مشهد کانکت, دات نت, mvc"
 
   # Header and footer text
   header_text: >
-     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p><p><small>مدیر بخش تحقیق و توسعه شرکت داده پردازی فراتک</small></p>
+     <p>محمد رضا صفری هستم. برنامه نویس و تحلیل گر وب</p>
 	    
   header_text_feature_image:
   footer_text: >
