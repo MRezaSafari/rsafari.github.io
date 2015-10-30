@@ -34,9 +34,10 @@ layout: default
 </div>
 {% endif %}
 
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
+<script>
+var idcomments_acct = '95fba5a511c9ad3f9dfd7a36bf3cda62';
+var idcomments_post_id = {{ page.id }};
+var idcomments_post_url = {{ page.url }};
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
