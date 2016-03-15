@@ -12,17 +12,14 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
+		  
         </h1>
+		<p>{{ post.categories }}</p>
         <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
+          {{ post.date | pdate }}
         </p>
       </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-          {{ site.theme.str_continue_reading }}
-        </a>
-      </div>
+
     </div>
     {% endfor %}
   </div>
