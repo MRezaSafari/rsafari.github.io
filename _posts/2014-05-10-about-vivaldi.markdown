@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "چگونه از API ویبره HTML5 استفاده کنیم ؟"
+title:  "این قسمت: Vivaldi"
 date:   2014-05-10 18:32:20
 categories: miscellaneous
 ---
