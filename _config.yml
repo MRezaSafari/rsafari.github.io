@@ -20,7 +20,7 @@ theme:
    <p>کپی مطالب بدون ذکر منبع هم بلامانع است</p>
 
   # Icons
-  rss: false
+  rss: true
   email_address: safary.mr@outlook.com
   behance:
   bitbucket:
