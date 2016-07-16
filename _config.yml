@@ -65,7 +65,6 @@ theme:
 paginate: 10
 paginate_path: "blog/page:num"
 
-gems: [jekyll_pdate_plugin]
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
