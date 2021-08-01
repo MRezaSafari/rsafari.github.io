@@ -72,4 +72,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
